@@ -1,2 +1,2 @@
 # hello-world
-basic ideas
+basic ideas and some more basic ideas
